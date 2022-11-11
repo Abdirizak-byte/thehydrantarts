@@ -95,7 +95,7 @@ footer a:link, footer a:visited {
 .tm-site-title {
   font-size: 3.6rem;
   text-transform: uppercase;
-	color: 3CDBC0
+	color: 3CDBC0;
 }
 
 .tm-site-subtitle {
@@ -120,7 +120,7 @@ footer a:link, footer a:visited {
   font-size: 3.4rem;
   margin-left: 40px;
   text-transform: uppercase;
-	color: 3CDBC0
+	color: 3CDBC0;
 }
 
 .tm-textbox {
