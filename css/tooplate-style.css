@@ -8,7 +8,10 @@ http://www.tooplate.com/view/2109-the-card
   padding: 0;
 }
 
-.Map {margin-right:100;}
+.Map {
+  margin-left:100px;
+  
+}
 
 body {
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
