@@ -8,9 +8,10 @@ http://www.tooplate.com/view/2109-the-card
   padding: 0;
 }
 
-.Map{margin-top:100px;} 
+.Map {
+	margin-top:100px;
+} 
 
-}
 
 body {
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
@@ -377,10 +378,10 @@ figure.effect-goliath:hover p {
 }
 .tm-section-30 {
   width: 100%;
-  max-width: 500px;
+  max-width: 400px;
   margin-left: 40px;
   margin-right: auto;
-  margin-top: -150px;
+  margin-top: -50px;
 }
 
 .tm-contact-form {
