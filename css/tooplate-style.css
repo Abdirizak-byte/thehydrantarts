@@ -8,7 +8,9 @@ http://www.tooplate.com/view/2109-the-card
   padding: 0;
 }
 
-.Schedule {text-align:center;}
+.schedule {
+  text-align:center;
+}
 
 body {
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
@@ -87,6 +89,10 @@ footer a:link, footer a:visited {
 .tm-bg-dark {
   background: rgba(0, 0, 0, 0.7);
 }
+.tm-bg-dark-2 {
+  margin-left: 100%;
+  background: rgba(0, 0, 0, 0.7);
+}
 
 .tm-site-header-box {
   display: inline-block;
@@ -110,7 +116,7 @@ footer a:link, footer a:visited {
   padding-bottom: 50px;
   display: flex;
   justify-content: flex-end;
-  width: 100%;
+  
 }
 
 .tm-section {
@@ -136,6 +142,17 @@ footer a:link, footer a:visited {
   padding: 60px 40px 60px;
 }
 
+.tm-textbox-4 {
+  display: block;
+  padding: 45px;
+  font-size: 1.1rem;
+  color: #c5c7c6;
+  line-height: 1.8;
+  margin-left:auto;
+  margin-right:auto;
+  width:auto;
+}
+
 .tm-section-0 {
   margin-top: 70px;
   max-width: 575px;
@@ -143,6 +160,10 @@ footer a:link, footer a:visited {
 .tm-section-1 {
   margin-top: 70px;
   max-width: 420px;
+}
+.tm-section-4{
+  margin-right: 75px;
+  max-width: 100%;
 }
 
 .tm-link:link,
