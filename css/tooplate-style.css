@@ -12,6 +12,10 @@ http://www.tooplate.com/view/2109-the-card
   text-align:center;
 }
 
+ul{
+	list-style:none;
+}
+
 body {
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
   font-size: 19px;
